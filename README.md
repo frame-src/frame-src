@@ -1,2 +1,12 @@
-![](./img/template3_github.png)
-<p align="center"> <sub> Hi, I’m Francesco, I'm currently studying Computer Science in 42 Heilbronn</sub></p>
+<h1> Mini RT </h1>
+
+This project is an introduction to the beautiful world of Raytracing.
+
+So once you run "make" the 
+```bash 
+./miniRT ./source/<mapname>.rt
+```
+will be capable of render beautiful images like this:
+
+![](./img/Screenshot\ 2023-01-25\ at\ 11.52.13.png)
+<p align="center"> <sub> First Image we ever rendered</sub></p>
