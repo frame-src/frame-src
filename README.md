@@ -8,5 +8,5 @@ So once you run "make" the
 ```
 will be capable of render beautiful images like this:
 
-![](.img/Screenshot%202023-01-25%20at%2011.52.13.png)
+![](.img/first_camera0.png)
 <p align="center"> <sub> First Image we ever rendered</sub></p>
